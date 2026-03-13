@@ -1,0 +1,8 @@
+SOC-Threat-Detection-System
+│
+├── threat_monitor.py
+├── security_logs.txt
+├── alerts.txt
+├── README.md
+├── requirements.txt
+└── .gitignore
